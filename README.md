@@ -18,6 +18,8 @@
 - [Hipsters.Tech](https://hipsters.tech/) Roberta Arcoverde
 - [Software Engineering Radio](https://www.se-radio.net/) Felienne Hermanns
 - [Software Engineering Unlocked](https://www.software-engineering-unlocked.com/) Doctor McKayla
+- [Ladybug Podcast](https://ladybug.dev/) Kelly Vaughn, Emma Bostian, Ali Spittel
+- [Elixir Outlaws](https://elixiroutlaws.com/) Anna Neyzberg
 
 # Contribua!
 
