@@ -12,10 +12,10 @@
 - [As programadoras - Maria vai com as outras](https://piaui.folha.uol.com.br/maria-vai-com-as-outras-5-as-programadoras/)
 
 
-# Vídeos que poderiam ser episódios de podcasts (a imagem não importa tanto)
+# Alguns vídeos que poderiam ser episódios de podcasts (a imagem não importa tanto)
 
-- [CIÊNCIA DA COMPUTAÇÃO | Como é o curso?](https://youtu.be/DauPgf0I6IE) [como podcast](https://listenbox.app/i/FBtDi-417Y-)
-- [ENGENHARIA DE COMPUTAÇÃO | Como é o curso?](https://youtu.be/-gcGFxZz1y8) [como podcast](https://listenbox.app/i/xJ8lPhCO6JY)
+- [CIÊNCIA DA COMPUTAÇÃO | Como é o curso?](https://youtu.be/DauPgf0I6IE) [-> como podcast](https://listenbox.app/i/FBtDi-417Y-)
+- [ENGENHARIA DE COMPUTAÇÃO | Como é o curso?](https://youtu.be/-gcGFxZz1y8) [-> como podcast](https://listenbox.app/i/xJ8lPhCO6JY)
 
 # Podcasts sobre Computação com mulheres como hosts/co-hosts
 
