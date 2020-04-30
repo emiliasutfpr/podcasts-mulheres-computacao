@@ -18,6 +18,7 @@
   - [como podcast](https://listenbox.app/i/FBtDi-417Y-)
 - [ENGENHARIA DE COMPUTAÇÃO | Como é o curso?](https://youtu.be/-gcGFxZz1y8) 
   - [como podcast](https://listenbox.app/i/xJ8lPhCO6JY)
+- [EBANX Meetup: Mulheres na Tecnologia](https://www.youtube.com/watch?v=-_cdN8Mnwho&feature=youtu.be&t=2721)
 
 # Podcasts sobre Computação com mulheres como hosts/co-hosts
 
