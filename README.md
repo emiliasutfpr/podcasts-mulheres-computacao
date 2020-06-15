@@ -10,6 +10,7 @@
 - [Ada Lovelace, lida por Camila Achutti - Histórias de Ninar para Garotas Rebeldes](https://www.b9.com.br/shows/garotasrebeldes/historias-de-ninar-para-garotas-rebeldes-ada-lovelace-lida-por-camila-achutti/)
 - [Eventos de Tecnologia da Comunidade – Hipsters #191](https://hipsters.tech/eventos-de-tecnologia-da-comunidade-hipsters-191/)
 - [As programadoras - Maria vai com as outras](https://piaui.folha.uol.com.br/maria-vai-com-as-outras-5-as-programadoras/)
+- [Série: Programadoras - Grok Podcast](https://www.grokpodcast.com.br/series/programadoras/)
 
 
 # Alguns vídeos que poderiam ser episódios de podcasts (a imagem não importa tanto)
