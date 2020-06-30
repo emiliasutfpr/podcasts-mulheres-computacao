@@ -11,8 +11,9 @@
 - [Eventos de Tecnologia da Comunidade – Hipsters #191](https://hipsters.tech/eventos-de-tecnologia-da-comunidade-hipsters-191/)
 - [As programadoras - Maria vai com as outras](https://piaui.folha.uol.com.br/maria-vai-com-as-outras-5-as-programadoras/)
 - [Série: Programadoras - Grok Podcast](https://www.grokpodcast.com.br/series/programadoras/)
-- [Mais mulheres na Tecnologia[(https://www.cabecadelab.com.br/episodios/02-mais-mulheres-na-tecnologia.html)
-- [Mais Mulheres Na Tecnologia 2: Vencendo Barreiras Através do Código](https://www.cabecadelab.com.br/episodios/42-mais-mulheres-na-tecnologia-2-vencendo-barreiras-atraves-do-codigo.html)
+- [Mais mulheres na Tecnologia - Cabeça de Lab](https://www.cabecadelab.com.br/episodios/02-mais-mulheres-na-tecnologia.html)
+- [Mais Mulheres Na Tecnologia 2: Vencendo Barreiras Através do Código - Cabeça de Lab](https://www.cabecadelab.com.br/episodios/42-mais-mulheres-na-tecnologia-2-vencendo-barreiras-atraves-do-codigo.html)
+- [Mulheres na Tecnologia - ContÁgil podcast](http://tun.in/tjsdIr)
 
 
 # Alguns vídeos que poderiam ser episódios de podcasts (a imagem não importa tanto)
@@ -25,7 +26,6 @@
 - [Vitórias das Mulheres em TI (Roda de Conversa)](https://youtu.be/LsPpk44r3Bw)
 
 # Podcasts sobre Computação com mulheres como hosts/co-hosts
-
 
 - [Hipsters.Tech](https://hipsters.tech/) Roberta Arcoverde
 - [Software Engineering Radio](https://www.se-radio.net/) Felienne Hermanns
