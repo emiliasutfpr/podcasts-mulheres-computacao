@@ -11,6 +11,8 @@
 - [Eventos de Tecnologia da Comunidade – Hipsters #191](https://hipsters.tech/eventos-de-tecnologia-da-comunidade-hipsters-191/)
 - [As programadoras - Maria vai com as outras](https://piaui.folha.uol.com.br/maria-vai-com-as-outras-5-as-programadoras/)
 - [Série: Programadoras - Grok Podcast](https://www.grokpodcast.com.br/series/programadoras/)
+- [Mais mulheres na Tecnologia[(https://www.cabecadelab.com.br/episodios/02-mais-mulheres-na-tecnologia.html)
+- [Mais Mulheres Na Tecnologia 2: Vencendo Barreiras Através do Código](https://www.cabecadelab.com.br/episodios/42-mais-mulheres-na-tecnologia-2-vencendo-barreiras-atraves-do-codigo.html)
 
 
 # Alguns vídeos que poderiam ser episódios de podcasts (a imagem não importa tanto)
