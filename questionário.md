@@ -20,7 +20,7 @@
 
 # Quais destes podcasts sobre Mulheres na Computação você assina ou escuta regularmente?
 
-*Escutar regularmente é escutar??? 
+*Escutar regularmente é escutar quantas vezes, por qual período???* 
 
 # Conte-nos um pouco sobre você:
 
