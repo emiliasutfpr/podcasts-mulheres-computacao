@@ -14,6 +14,7 @@
 - [Mais mulheres na Tecnologia - Cabeça de Lab](https://www.cabecadelab.com.br/episodios/02-mais-mulheres-na-tecnologia.html)
 - [Mais Mulheres Na Tecnologia 2: Vencendo Barreiras Através do Código - Cabeça de Lab](https://www.cabecadelab.com.br/episodios/42-mais-mulheres-na-tecnologia-2-vencendo-barreiras-atraves-do-codigo.html)
 - [Mulheres na Tecnologia - ContÁgil podcast](http://tun.in/tjsdIr)
+- [Cefé Debug #45 Iniciando na carreira de tecnologia](https://open.spotify.com/episode/2Qpu3E3Q7SCaZNwE2Mtsca)
 
 Playlist "Mulheres na Computação" no Spotify com alguns dos episódios acima https://open.spotify.com/playlist/5xeL5Jmdyy672WGmwXLetk
 
