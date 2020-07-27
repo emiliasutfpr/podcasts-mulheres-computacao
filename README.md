@@ -15,6 +15,8 @@
 - [Mais Mulheres Na Tecnologia 2: Vencendo Barreiras Através do Código - Cabeça de Lab](https://www.cabecadelab.com.br/episodios/42-mais-mulheres-na-tecnologia-2-vencendo-barreiras-atraves-do-codigo.html)
 - [Mulheres na Tecnologia - ContÁgil podcast](http://tun.in/tjsdIr)
 
+Playlist "Mulheres na Computação" no Spotify com alguns dos episódios acima https://open.spotify.com/playlist/5xeL5Jmdyy672WGmwXLetk
+
 
 # Alguns vídeos que poderiam ser episódios de podcasts (a imagem não importa tanto)
 
