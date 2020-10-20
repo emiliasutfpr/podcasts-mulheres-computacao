@@ -1,5 +1,7 @@
 # Canais no YouTube 
 
+[Canais interessantes que podem ser úteis para desenvolvedores(as) de software, no YouTube](https://twitter.com/Emilias_UTFPR/status/1318328956542722049?s=20)
+
 - Ana Beatriz Neri https://www.youtube.com/channel/UCBjoWT-P17Bl66D52RwqdGA
 - Aprenda Go https://www.youtube.com/channel/UCxD5EE0H7qOhRr0tIVsOZPQ
 - Punk do DevOps https://www.youtube.com/c/punkdodevops
