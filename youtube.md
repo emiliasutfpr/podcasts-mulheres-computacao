@@ -1,6 +1,6 @@
 # Canais no YouTube 
 
-[Canais interessantes que podem ser úteis para desenvolvedores(as) de software, no YouTube](https://twitter.com/Emilias_UTFPR/status/1318328956542722049?s=20)
+[Canais interessantes que podem ser úteis para desenvolvedores(as) de software, no YouTube,](https://twitter.com/Emilias_UTFPR/status/1318328956542722049?s=20) comandados por mulheres e/ou miniorias na tecnologia.
 
 - Ana Beatriz Neri https://www.youtube.com/channel/UCBjoWT-P17Bl66D52RwqdGA
 - Aprenda Go https://www.youtube.com/channel/UCxD5EE0H7qOhRr0tIVsOZPQ
