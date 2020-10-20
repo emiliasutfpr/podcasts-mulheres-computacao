@@ -17,3 +17,5 @@
 - QA Ladies https://www.youtube.com/channel/UCM0Lqmlwd30901hO3PI6moA
 - shebangbash https://www.youtube.com/c/shebangbash
 - Trans de Programa https://www.youtube.com/channel/UCpLKaiRNISlCdY99bjp5NFA
+
+Lista mais completa: [Pessoas fantásticas para você acompanhar em live coding](https://github.com/Caaddss/awesome-live-coding-streams)
