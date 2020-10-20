@@ -10,6 +10,7 @@
 - Dados de Julieta https://www.youtube.com/dadosdejulieta
 - E AI, Carla? https://www.youtube.com/channel/UC0nMDgKSm_yVwGxBXn4mLdQ 
 - Glaucia Lemos https://www.youtube.com/user/l32759
+- Michelli Brito https://www.youtube.com/c/MichelliBrito/videos
 - Loiane Groner https://www.youtube.com/user/Loianeg
 - Mikaeri Ohana https://www.youtube.com/user/miohanars
 - Peixe Babel https://www.youtube.com/c/PeixeBabel
