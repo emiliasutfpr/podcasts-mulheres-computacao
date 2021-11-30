@@ -11,4 +11,6 @@
 
 ## 55 - [Letícia Wapniarz Sartorelli: Scrum Master na ExxonMobil](https://www.youtube.com/watch?v=zONqOsB1kzc)
 
-
+- Podcasts sobre Inteligência Emocional
+- A Coragem de Ser Imperfeito https://www.goodreads.com/book/show/23148755-a-coragem-de-ser-imperfeit
+- Faça Acontecer, Sheryl Sandberg https://www.goodreads.com/bg/book/show/18742466-fa-a-acontecer
