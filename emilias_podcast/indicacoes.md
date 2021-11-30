@@ -9,6 +9,6 @@
 - Brené Brown: O Poder da Coragem https://www.imdb.com/title/tt10050766/
 - TED Talks de Brené Briown https://www.ted.com/search?q=bren%C3%A9+brown
 
-## 55 - Letícia Wapniarz Sartorelli: Scrum Master na ExxonMobil
+## 55 - [Letícia Wapniarz Sartorelli: Scrum Master na ExxonMobil](https://www.youtube.com/watch?v=zONqOsB1kzc)
 
 
