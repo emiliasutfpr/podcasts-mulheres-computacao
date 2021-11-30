@@ -14,3 +14,19 @@
 - Podcasts sobre Inteligência Emocional
 - A Coragem de Ser Imperfeito https://www.goodreads.com/book/show/23148755-a-coragem-de-ser-imperfeit
 - Faça Acontecer, Sheryl Sandberg https://www.goodreads.com/bg/book/show/18742466-fa-a-acontecer
+
+# 54 - [Karine Silveira: Co-fundadora e Diretora de Operações na Impulso](https://www.youtube.com/watch?v=wUIj7jvv7wM)
+
+- Filme Estrelas Além do Tempo
+- Série Handmaid’s Tale
+- Série Unorthodox (Nada Ortodoxa). 
+- Livros técnicos: 
+  - Agilidade emocional de Susan Davis 
+  - Soft skills for hard skills
+  - Inspired - como criar produtos de tecnologia que os clientes amam
+  - Repensando Agilidade de Klaus Leopold. 
+ - Livros para a vida: 
+   - Ensaio sobre a cegueira de José Saramago
+   - Intermitências da Morte de José Saramago
+   - Negociando com Hitler
+   - A senhora de Wildfell Hall de Anne Bronte.
