@@ -30,3 +30,12 @@
    - Intermitências da Morte de José Saramago
    - Negociando com Hitler
    - A senhora de Wildfell Hall de Anne Bronte.
+
+# COMPLETAR A PARTIR DE...
+
+https://pessoal.dainf.ct.utfpr.edu.br/adolfo/doku.php?id=2020:lista_completa_de_episodios_do_emilias_podcast&s[]=indica%C3%A7%C3%B5es
+
+# 5 - Pyettra Ferreira: aluna do BSI-UTFPR e da Apple Developer Academy
+
+- Podcast Código Aberto: https://www.b9.com.br/shows/codigoaberto/
+- Livro “Faça Acontecer - Mulheres, Trabalho e a Vontade de Liderar”, de Sheryk Sandberg https://www.companhiadasletras.com.br/detalhe.php?codigo=13469.
